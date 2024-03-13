@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Who%20am%20I%3F%20%F0%9F%A4%94&fontSize=40&animation=fadeIn)
+예비 개발자 김선진입니다.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkingkong96)](https://github.com/anuraghazra/github-readme-stats)
 
