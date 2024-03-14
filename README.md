@@ -10,7 +10,7 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:kimsj9693@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-F80000?style=for-the-badge&logo=Gmail&logoColor=white"> <br>
-         <a href=https://whjeong-dev.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white&link=https://codingpool.tistory.com/"></a>
+         <a href=https://codingpool.tistory.com/> <img src="https://img.shields.io/badge/Tistory-EC4815?style=for-the-badge&logo=Tistory&logoColor=white&link=https://codingpool.tistory.com/"></a>
 </div><br>
 
   
